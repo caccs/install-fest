@@ -3,14 +3,15 @@
 Vamos listar alguns programas open-source que com certeza estão disponíveis para *nix/Linux e talvez até mesmo para Windows e OS X.
 
 ### Conteúdo
+
 - [Editor de texto](#editor-de-texto)
-- [Software de escritório](#ferramenta-office)
-- [Player de música](#player-de-musica)
-- [Player de vídeo](#player-de-video)
+- [Software de escritório](#software-de-escritório)
+- [Player de música](#player-de-música)
+- [Player de vídeo](#player-de-vídeo)
 - [Browser](#browser)
 - [Client de email](#client-de-email)
 - [Editor de imagem](#editor-de-imagem)
-- [Virtualização](#virtualizacao)
+- [Virtualização](#virtualização)
 - [Administrador financeiro](#administrador-financeiro)
 - [Cliente Torrent](#cliente-torrent)
 
@@ -68,6 +69,7 @@ Vamos listar alguns programas open-source que com certeza estão disponíveis pa
 - [TurboCASH]
 
 #### Cliente Torrent
+
 - [Transmission]
 - [qbittorrent]
 
