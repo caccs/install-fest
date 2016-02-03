@@ -4,7 +4,7 @@ Vamos listar alguns programas open-source que com certeza estão disponíveis pa
 
 ### Conteúdo
 - [Editor de texto](#editor-de-texto)
-- [Ferramenta office](#ferramenta-office)
+- [Software de escritório](#ferramenta-office)
 - [Player de música](#player-de-musica)
 - [Player de vídeo](#player-de-video)
 - [Browser](#browser)
@@ -12,14 +12,16 @@ Vamos listar alguns programas open-source que com certeza estão disponíveis pa
 - [Editor de imagem](#editor-de-imagem)
 - [Virtualização](#virtualizacao)
 - [Administrador financeiro](#administrador-financeiro)
+- [Cliente Torrent](#cliente-torrent)
 
 #### Editor de texto
 
 - [Atom]
 - [Notepad++]
 - [EMACS]
+- [VIM]
 
-#### Ferramenta office
+#### Software de escritório
 
 - [LibreOffice]
 - [AbiWord]
@@ -65,9 +67,14 @@ Vamos listar alguns programas open-source que com certeza estão disponíveis pa
 - [KMyMoney]
 - [TurboCASH]
 
+#### Cliente Torrent
+- [Transmission]
+- [qbittorrent]
+
 [atom]: https://atom.io/
 [notepad++]: https://notepad-plus-plus.org/
-[emacs]: https://www.gnu.org/software/emacs/
+[emacs]: https://www.gnu.org/software/emac/
+[vim]: http://www.vim.org/about.ph/psui
 
 [libreoffice]: https://www.libreoffice.org/
 [abiword]: http://www.abisource.com/
@@ -98,3 +105,6 @@ Vamos listar alguns programas open-source que com certeza estão disponíveis pa
 [homebank]: http://homebank.free.fr/index.php
 [kmymoney]: http://kmymoney2.sourceforge.net/index-home.html
 [turbocash]: http://www.turbocashuk.com/
+
+[transmission]: http://www.transmissionbt.com/
+[qbittorrent]: http://www.qbittorrent.org/
